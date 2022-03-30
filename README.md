@@ -1,5 +1,4 @@
-# museum_of_candy
-Museum Of Candy
+# Museum of Candy
 
 
 A deployed link to the website can be found [here](https://sherryrich.github.io/museum_of_candy/)
